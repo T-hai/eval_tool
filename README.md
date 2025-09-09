@@ -19,13 +19,14 @@ Die verarbeiteten Dateien enthalten:
 
 Hier sind einige kurze Demos des `eval_tool`:
 
-![Slide from begin to end](gif_demo/01 - Slide from begin to end.gif)
-![Plot signal and slide within Plot Window](gif_demo/02 - Plot signal and slide within Plot Window.gif)
-![Combine Plots and slide](gif_demo/03 - Combine Plots and slide.gif)
-![Jump to specific time](gif_demo/04 - Jump to specific time.gif)
-![Click on Object to view](gif_demo/05 - Click on Object to view.gif)
-![Open another bsig](gif_demo/06 - Open another bsig.gif)
-![Close bsig](gif_demo/07 - Close bsig.gif)
+![Slide from begin to end](gif_demo/01-Slide-from-begin-to-end.gif)
+![Plot signal and slide within Plot Window](gif_demo/02-Plot-signal-and-slide-within-Plot-Window.gif)
+![Combine Plots and slide](gif_demo/03-Combine-Plots-and-slide.gif)
+![Jump to specific time](gif_demo/04-Jump-to-specific-time.gif)
+![Click on Object to view](gif_demo/05-Click-on-Object-to-view.gif)
+![Open another bsig](gif_demo/06-Open-another-bsig.gif)
+![Close bsig](gif_demo/07-Close-bsig.gif)
+
 
 
 ⚠️ **Hinweis:**  
